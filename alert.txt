@@ -1,1 +1,1 @@
-Devices alert: maintenance in progress
+Device alert: offline — maintenance monitoring enabled
