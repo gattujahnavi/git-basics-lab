@@ -1,1 +1,1 @@
-Device alert: maintenance in progress
+Devices alert: maintenance in progress
